@@ -34,6 +34,10 @@ The application also uses Accelerometer from expo-sensors, which helps us facili
 - Tilt phone left to undo text.
 - Tilt phone right to redo text.
 
+## Video demo
+
+[Video Demo](video-demo/UndoThenRedo-working.mp4)
+
 ## References
 
 - [Expo](https://docs.expo.dev/)
